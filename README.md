@@ -1,2 +1,2 @@
 # 08CNPM_NguyenThanhDat
-floder chứa bài tập thực hành của các tuần
+File chứa bài tập thực hành mỗi tuần được cập nhật
