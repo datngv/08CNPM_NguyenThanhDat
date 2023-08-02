@@ -1,2 +1,2 @@
 # 08CNPM_NguyenThanhDat
-File chứa bài tập thực hành mỗi tuần được cập nhật
+File chứa bài tập thực hành được cập nhật mỗi tuần.
