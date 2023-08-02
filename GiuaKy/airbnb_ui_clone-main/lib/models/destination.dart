@@ -59,11 +59,4 @@ final List<Destination> destinations = [
       rating: 4.90,
       price: 95,
       duration: 'Nov 1-6'),
-  Destination(
-      imageUrl: 'assets/images/tntddn.jpg',
-      name: 'Hồ Chí Minh, Việt Nam',
-      distance: 2000,
-      rating: 4.50,
-      price: 950,
-      duration: 'Nov 2-6'),
 ];

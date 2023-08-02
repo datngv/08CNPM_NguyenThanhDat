@@ -142,7 +142,6 @@ class _HomeScreenState extends State<HomeScreen> {
                                     color: Colors.white,
                                     fontWeight: FontWeight.w500),
                               ),
-                              Icon(Icons.favorite, size: 30, color: Colors.white,),
                             ],
                           )
                         ],
