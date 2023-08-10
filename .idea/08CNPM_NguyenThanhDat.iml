@@ -24,6 +24,15 @@
       <excludeFolder url="file://$MODULE_DIR$/ThucHanhBuoi1B/bai1_bai2/build" />
       <excludeFolder url="file://$MODULE_DIR$/ThucHanhBuoi1B/bai1_bai2/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ThucHanhBuoi1B/bai1_bai2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Tuan3/Bai1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Tuan3/Bai1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Tuan3/Bai1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Tuan3/Bai4/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Tuan3/Bai4/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Tuan3/Bai4/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Tuan3/Bai3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Tuan3/Bai3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Tuan3/Bai3/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
