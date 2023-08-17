@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.outlook">
    <application
-        android:label="outlook"
+        android:label="Bai2"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
